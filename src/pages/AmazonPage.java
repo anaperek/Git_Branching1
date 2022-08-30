@@ -6,7 +6,7 @@ public class AmazonPage {
 
     //html for search button
 
-
+    // html for deals page
 
 
 }
